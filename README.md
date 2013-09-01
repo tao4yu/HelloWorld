@@ -11,11 +11,11 @@
 
 支持三种访问协议：
 
-* HTTP协议：'https://github.com/tao4yu/HelloWorld.git'。
-* Git协议： 'git://github.com/tao4yu/HelloWorld.git'。
-* SSH协议： 'ssh://git@github.com/tao4yu/HelloWorld.git'。
+* HTTP协议： 'https://github.com/tao4yu/HelloWorld.git'。
+* Git协议：  'git://github.com/tao4yu/HelloWorld.git'。
+* SSH协议：  'ssh://git@github.com/tao4yu/HelloWorld.git'。
 
 ### 克隆版本库
 
-操作实例： 
-      $ git clone git://github.com/tao4yu/HelloWorld.git 
+操作实例：  
+            $ git clone git://github.com/tao4yu/HelloWorld.git 

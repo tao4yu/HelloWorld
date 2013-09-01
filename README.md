@@ -17,5 +17,5 @@
 
 ### 克隆版本库
 
-操作实例：
-     $ git clone git://github.com/tao4yu/HelloWorld.git 
+操作实例： 
+      $ git clone git://github.com/tao4yu/HelloWorld.git 
